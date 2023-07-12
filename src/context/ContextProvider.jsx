@@ -1,4 +1,3 @@
-/* eslint-disable react-refresh/only-export-components */
 import { createContext, useReducer, useContext, useEffect } from "react";
 import axios from "axios";
 
